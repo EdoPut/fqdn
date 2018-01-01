@@ -1,0 +1,6 @@
+[package]
+name = "fqdn"
+version = "0.1.0"
+authors = ["Edoardo Putti <edoardo.putti@gmail.com>"]
+
+[dependencies]
